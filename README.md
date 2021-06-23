@@ -3,6 +3,9 @@ Eagle script to create a new menu with track sizes in mm and mil and then select
 
 Note: onlty tested on v9.6.2
 
+<h2>Installation</h2>
+Install trackWidthChanger by running the script from the File | Execute Script menu.
+
 <h2>How does it work?</h2>
 
 <h3>Single track</h3>
@@ -21,3 +24,6 @@ Note: onlty tested on v9.6.2
 <li>Repeat Step 3 for other groups.</li>
 <li>Press [ESC] to cancel command.</li>
 </ol>
+
+<h3>Screenshots</h3>
+![image](https://user-images.githubusercontent.com/12491087/123025679-54198c80-d41e-11eb-925c-7dcbd3bba395.png)
