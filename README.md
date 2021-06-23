@@ -26,7 +26,7 @@ Install trackWidthChanger by running the script from the File | Execute Script m
 </ol>
 
 <h3>Screenshots</h3>
-![menu](https://github.com/kaza007/trackWidthChanger/blob/master/menu.png)
+[[menu.png]]
 ![mm-or-mil](https://github.com/kaza007/trackWidthChanger/blob/master/mm-or-mil.png)
 ![mm](https://github.com/kaza007/trackWidthChanger/blob/master/mm.png)
 ![mil](https://github.com/kaza007/trackWidthChanger/blob/master/mil.png)
