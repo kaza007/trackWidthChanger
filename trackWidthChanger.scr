@@ -1,0 +1,54 @@
+# Track Width Changer
+#
+# Single track
+# 1. Select a width size from the new menu on the tool bar. 
+# 2. Left click on any track to change width to selected size.
+# 3. Change as many track sizes as you wish.
+# 4. Press [ESC] to cancel command.
+#
+# Group of tracks
+# 1. Using the group icon or group command select as tracks as required.
+# 2. Select a width size from the new menu on the tool bar. 
+# 3. Press [Ctrl] + Right click on track group to change width of all tracks in group.
+# 4. Repeat Step 3 for other groups.
+# 5. Press [ESC] to cancel command.
+
+MENU 'Track Width Changer {\ 
+					mm {\
+							0.127___5    : grid mm; change width 0.127 |\
+							0.1524__6    : grid mm; change width 0.1524 |\
+							0.2_____7.87 : grid mm; change width 0.2 |\
+							0.2032__8 : grid mm; change width 0.2032 |\
+							0.254___10 : grid mm; change width 0.254 |\
+							0.2794__11 : grid mm; change width 0.2794 |\
+							0.3048__12 : grid mm; change width 0.3048 |\
+							0.381___15 : grid mm; change width 0.381 |\
+							0.4064__16 : grid mm; change width 0.4064 |\
+							0.508___20 : grid mm; change width 0.508 |\
+							0.6096__24 : grid mm; change width 0.6096 |\
+							0.762___30 : grid mm; change width 0.762 |\
+							0.8128__32 : grid mm; change width 0.8128 |\
+							1.016___40 : grid mm; change width 1.016 |\
+							1.27____50 : grid mm; change width 1.27 |\
+							2.54____100 : grid mm; change width 2.54 \
+							}|\
+					mil {\
+							5_____0.127 : grid mil; change width 5 |\
+							6_____0.1524 : grid mil; change width 6 |\
+							7.87__0.2 : grid mil; change width 7.87 |\
+							8_____0.2032 : grid mil; change width 8 |\
+							10____0.254 : grid mil; change width 10 |\
+							11____0.2794 : grid mil; change width 11 |\
+							12____0.3048 : grid mil; change width 12 |\
+							15____0.381 : grid mil; change width 15 |\
+							16____0.4064 : grid mil; change width 16 |\
+							20____0.508 : grid mil; change width 20 |\
+							24____0.6096 : grid mil; change width 24 |\
+							30____0.762 : grid mil; change width 30 |\
+							32____0.8128 : grid mil; change width 32 |\
+							40____1.016 : grid mil; change width 40 |\
+							50____1.27 : grid mil; change width 50 |\
+							100___2.54 : grid mil; change width 100 \
+							}\
+	}'\
+    ;
