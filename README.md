@@ -1,7 +1,7 @@
 <h1>trackWidthChanger</h1>
 Eagle script to create a new menu with track sizes in mm and mil and then select a track or group of tracks to change width.
 
-Note: onlty tested on v9.6.2
+Note: only tested on v9.6.2
 
 <h2>Installation</h2>
 Install trackWidthChanger by running the script from the File | Execute Script menu.
